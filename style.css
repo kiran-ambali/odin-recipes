@@ -1,6 +1,7 @@
 .home p {
     font-size: 16px;
     color: #7f580f;
+    background-color: #d5d585;
 }
 
 h1 {
@@ -30,4 +31,7 @@ img {
 button {
     background-color: goldenrod;
 
+}
+body {
+    background-color: grey;
 }
