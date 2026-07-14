@@ -2,8 +2,28 @@
     font-size: 16px;
     color: #7f580f;
 }
-.home h1 {
+
+h1 {
     font-size: 32px;
     color: goldenrod;
     text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+}
+.description {
+    font-size: 18px;
+    padding: 10px;
+    background-color: #d5d585;
+}
+
+.ingredients, .steps {
+    margin: 20px;
+    padding: 10px;
+    background-color: #f5f5dc;
+    border-radius: 5px;
 }
